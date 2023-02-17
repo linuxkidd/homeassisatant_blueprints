@@ -1,0 +1,2 @@
+# homeassisatant_blueprints
+Random HomeAssistant Blueprints
