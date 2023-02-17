@@ -1,6 +1,7 @@
 blueprint:
   name: Zone Arrival Notification
   description: Send a notification to a device when a person enters a specific zone.
+  source_url: https://github.com/linuxkidd/homeassisatant_blueprints/blob/main/automation/notify_entering_zone.yml
   domain: automation
   input:
     person_entity:

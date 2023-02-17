@@ -1,6 +1,7 @@
 blueprint:
   name: Any Zone Transition Notification
   description: Send a notification to a device when a person enters or leaves any zone.
+  source_url: https://github.com/linuxkidd/homeassisatant_blueprints/blob/main/automation/notify_any_zone_transition.yml
   domain: automation
   input:
     person_entity:
