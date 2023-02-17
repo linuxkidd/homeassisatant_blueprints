@@ -1,2 +1,2 @@
-# homeassisatant_blueprints
-Random HomeAssistant Blueprints
+# Home Assisatant Blueprints
+Random Home Assistant Blueprints
